@@ -17,7 +17,7 @@
 
 
 //Help:
-//clone from github to your visual studio 2022
+//clone from github (https://github.com/h-abdizadeh/CSharpLearning) to your visual studio 2022
 //in solution explorer window
 //right-click on practice or program
 //set as startup project
