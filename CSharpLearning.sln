@@ -13,7 +13,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Practice3_ReadLine_ReadKey"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Practice4_Convert_dataTypes", "Practice4_Convert_Input\Practice4_Convert_dataTypes.csproj", "{A85334BF-EA72-4610-9FBF-94D800AA1196}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Program1_Simple_Calculations", "Program1_Simple_Calculations\Program1_Simple_Calculations.csproj", "{5BD4EF0E-BDBA-4668-9641-A3FE4E348D62}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Program1_Simple_Calculations", "Program1_Simple_Calculations\Program1_Simple_Calculations.csproj", "{5BD4EF0E-BDBA-4668-9641-A3FE4E348D62}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Practice5_If_Else", "..\..\..\..\..\..\..\source\repos\CSharpLearning\Practice5_If_Else\Practice5_If_Else.csproj", "{B83A545E-176A-4A93-9696-6674E5C4F95C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{5BD4EF0E-BDBA-4668-9641-A3FE4E348D62}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5BD4EF0E-BDBA-4668-9641-A3FE4E348D62}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5BD4EF0E-BDBA-4668-9641-A3FE4E348D62}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B83A545E-176A-4A93-9696-6674E5C4F95C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B83A545E-176A-4A93-9696-6674E5C4F95C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B83A545E-176A-4A93-9696-6674E5C4F95C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B83A545E-176A-4A93-9696-6674E5C4F95C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
