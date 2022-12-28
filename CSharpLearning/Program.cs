@@ -5,8 +5,8 @@
 //practice 2 _ Write and WriteLine (output)     //تمرین 2 _       نمایش خروجی برنامه   
 //practice 3 _ ReadLine and ReadKey (input)     //تمرین 3 _             دریافت ورودی   
 //practice 4 _ convert data types               //تمرین 4 _         تبدیل انواع داده   
-//practice 5 _ if else                          //تمرین 5 _             دستورات شرطی
 //program 1 _ simple calculations               //برنامه 1 _             محاسبات ساده   
+//practice 5 _ if else                          //تمرین 5 _             دستورات شرطی
 
 
 
