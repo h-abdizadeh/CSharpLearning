@@ -14,15 +14,9 @@ EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Practice4_Convert_dataTypes", "Practice4_Convert_Input\Practice4_Convert_dataTypes.csproj", "{A85334BF-EA72-4610-9FBF-94D800AA1196}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Program1_Simple_Calculations", "Program1_Simple_Calculations\Program1_Simple_Calculations.csproj", "{5BD4EF0E-BDBA-4668-9641-A3FE4E348D62}"
-<<<<<<< HEAD
-=======
 EndProject
-<<<<<<< HEAD
-=======
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Practice5_If_Else", "Practice_If_Else\Practice5_If_Else.csproj", "{A58331F7-F557-485F-99C1-68ECEB901D0B}"
->>>>>>> 89896227fa0e13e8d37e59e7de0ff4890b8eef3d
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Practice5_If_Else", "Practice5_If_Else\Practice5_If_Else.csproj", "{0BED20C3-E757-47FD-8E77-983F42FFCD88}"
 EndProject
->>>>>>> 4183b524eb32dc1be87b8e84bdef8862d9106623
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -53,6 +47,10 @@ Global
 		{5BD4EF0E-BDBA-4668-9641-A3FE4E348D62}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5BD4EF0E-BDBA-4668-9641-A3FE4E348D62}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5BD4EF0E-BDBA-4668-9641-A3FE4E348D62}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0BED20C3-E757-47FD-8E77-983F42FFCD88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BED20C3-E757-47FD-8E77-983F42FFCD88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0BED20C3-E757-47FD-8E77-983F42FFCD88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0BED20C3-E757-47FD-8E77-983F42FFCD88}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
