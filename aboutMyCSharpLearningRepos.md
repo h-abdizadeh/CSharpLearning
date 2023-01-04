@@ -7,6 +7,7 @@
 //practice 4 _ convert data types               //تمرین 4 _         تبدیل انواع داده   
 //program 1 _ simple calculations               //برنامه 1 _             محاسبات ساده   
 //practice 5 _ if else                          //تمرین 5 _             دستورات شرطی
+//practice 6 _ if else if                       //تمرین 6 _             دستورات شرطی
 
 
 //to be continue...                             //ادامه دارد...
