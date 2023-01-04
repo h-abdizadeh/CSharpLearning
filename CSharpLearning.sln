@@ -15,7 +15,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Practice4_Convert_dataTypes
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Program1_Simple_Calculations", "Program1_Simple_Calculations\Program1_Simple_Calculations.csproj", "{5BD4EF0E-BDBA-4668-9641-A3FE4E348D62}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Practice5_If_Else", "Practice5_If_Else\Practice5_If_Else.csproj", "{0BED20C3-E757-47FD-8E77-983F42FFCD88}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Practice5_If_Else", "Practice5_If_Else\Practice5_If_Else.csproj", "{0BED20C3-E757-47FD-8E77-983F42FFCD88}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Practice6_If_Else_If", "Practice6_If_Else_If\Practice6_If_Else_If.csproj", "{3A94D881-7DD7-42A2-BA63-98B8B048F4E2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,10 @@ Global
 		{0BED20C3-E757-47FD-8E77-983F42FFCD88}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0BED20C3-E757-47FD-8E77-983F42FFCD88}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0BED20C3-E757-47FD-8E77-983F42FFCD88}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A94D881-7DD7-42A2-BA63-98B8B048F4E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A94D881-7DD7-42A2-BA63-98B8B048F4E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A94D881-7DD7-42A2-BA63-98B8B048F4E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A94D881-7DD7-42A2-BA63-98B8B048F4E2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

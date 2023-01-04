@@ -4,7 +4,6 @@
 //content
 //  logical operators
 //  if else
-//  if else if
 
 
 ///////////////////////////////////////////////////////////////
@@ -24,6 +23,12 @@
 
 ///////////////////////////////////////////////////////////////
 //if else
+//
+//وقتی بین تنها دو وضعیت ممکن تصمیم گیری کنیم
+//مثال: رمز عبور ورودی یا درست است یا نادرست، حالت سوم وجود ندارد
+//
+//when decide between just two condition
+//example : input password either true or false, there's no third condition
 //
 // if (شرط)
 // {
