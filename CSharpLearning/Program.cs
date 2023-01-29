@@ -8,6 +8,7 @@
 //program 1 _ simple calculations               //برنامه 1 _             محاسبات ساده   
 //practice 5 _ if else                          //تمرین 5 _             دستورات شرطی
 //practice 6 _ if else if                       //تمرین 6 _             دستورات شرطی
+//practice 7 _ and(&&) or(||)                   //تمرین 7 _           ترکیب های شرطی
 
 
 
